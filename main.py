@@ -1,1 +1,1 @@
-print("Hello world this is ukesh Gurung":
+print("Hello world this is ukesh Gurung")
